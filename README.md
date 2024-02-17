@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rodelyn "Navier" Polanco 
-- 👀 I’m interested in frontend web and app development
-- 🌱 My Skills include React.js, React Native, JavaScript, HTML, and CSS/Tailwind CSS
-- 💞️ I’m looking to collaborate on new and interesting project that will challenge me to become a better programmer
+- 👀 I’m a full stack developer experienced in creating web and mobile-friendly applications using frontend and backend frameworks
+- 🌱 My Skills include React.js, React Native, JavaScript, Python, Java, Swift, HTML, and CSS/Tailwind CSS, 
+- 💞️to collaborate on new and interesting project that will challenge me to become a better developer 
 - 📫 Reach me via email: npolanco0100@gmail.com
 
 <!---

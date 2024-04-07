@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Rodelyn "Navier" Polanco
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Self-taught+Software+Developer;Techpreneur;Web3+Enthusiast)](https://git.io/typing-svg)
-- 👀 A Dominican Self-taught full stack developer, web3 enthusiast, and technopreneur living in New York. Experienced in creating web and mobile-friendly applications using frontend and backend frameworks and libraries
+ A Dominican Self-taught full stack developer, web3 enthusiast, and technopreneur living in New York. Experienced in creating web and mobile-friendly applications using frontend and backend frameworks and libraries
+ 
 - 💼 Freenlance Software Developer @ [Upwork](https://www.upwork.com/freelancers/~017788f0715214ee96)
 - 🌱 My Skills include React.js, React Native, JavaScript, Python, Java, Swift, HTML, and CSS/Tailwind CSS
 - 😎 Co-founder @ Archaic  

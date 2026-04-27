@@ -3,9 +3,9 @@
  
  A Dominican Self-taught full stack developer, web3 enthusiast, and technopreneur living in New York. Experienced in creating web and mobile-friendly applications using frontend and backend frameworks and libraries
  
-- 💼 Freenlance Software Developer @ [Upwork](https://www.upwork.com/freelancers/~017788f0715214ee96)
+- 💼 Sr. Software Developer @ [Escavé](https://apps.apple.com/us/app/escav%C3%A9/id6743010145)
 - 🌱 My Skills include React.js, React Native, JavaScript, Python, Java, Swift, HTML, and CSS/Tailwind CSS
-- 😎 Co-founder @ Archaic  
+- 😎 Co-founder @ Archaic inc. 
 - 🎯 Love to collaborate on new and interesting project that will challenge me to become a better developer
 - 💡 [Learn more about me](https://my-portfolio-eight-eosin.vercel.app/)
 - 📫 Reach me via email: npolanco0100@gmail.com
